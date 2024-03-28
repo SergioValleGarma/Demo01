@@ -94,7 +94,7 @@ string mensaje = null;
 
 Console.WriteLine("Selecione una de las aciones a realizar " +
     "\n opcion 1 calcular área del cuadrado" +
-    "\n opcion 2 calcular volumen del cubo" +
+    "\n opcion 2 calcula volumen del cubo" +
     "\n opcion 4 salir");
 
 opcion = Convert.ToInt32(Console.ReadLine());
